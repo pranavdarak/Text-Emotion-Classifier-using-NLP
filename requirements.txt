@@ -1,5 +1,10 @@
-joblib
-altair
 streamlit
+joblib
+scikit-learn
 pandas
+nltk
 numpy
+altair
+spacy
+textblob
+matplotlib
