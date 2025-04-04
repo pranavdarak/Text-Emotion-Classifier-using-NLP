@@ -1,1 +1,5 @@
 joblib
+altair
+streamlit
+pandas
+numpy
