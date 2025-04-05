@@ -9,5 +9,4 @@ spacy
 textblob
 matplotlib
 flask
-json
 requests
